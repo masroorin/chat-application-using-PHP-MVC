@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\controllers",
+    "\\application\\models",
+    "\\application\\views",
+    "\\system\\core",
+    "\\system\\core\\compat",
+    "\\system\\database",
+    "\\system\\database\\drivers"
+  ],
+  "SelectedNode": "\\application\\controllers\\Support_controller.php",
+  "PreviewInSolutionExplorer": false
+}
